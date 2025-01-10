@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Camera API with custom image processing. The processed image data may sometimes be corrupted or contain unexpected values, leading to crashes or visual glitches in the app. This is particularly noticeable when dealing with large images or complex processing algorithms.
